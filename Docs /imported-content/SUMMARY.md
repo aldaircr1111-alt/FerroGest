@@ -1,6 +1,7 @@
 # Table of contents
 
 * [1. Presentación General](README.md)
+* [enlace figma](enlace-figma.md)
 * [2. Especificacion de requisitos (IEEE830)](2.-especificacion-de-requisitos-ieee830.md)
 * [3. Matriz de trazabilidad de requisitos](3.-matriz-de-trazabilidad-de-requisitos.md)
 * [4. Arquitectura de software ferroGest](4.-arquitectura-de-software-ferrogest.md)
