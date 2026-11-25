@@ -5,3 +5,4 @@ description: >-
 
 # enlace figma
 
+<figure><img src=".gitbook/assets/IMG_4920.jpeg" alt=""><figcaption></figcaption></figure>
