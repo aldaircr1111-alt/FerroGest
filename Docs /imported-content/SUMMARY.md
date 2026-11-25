@@ -9,3 +9,5 @@
 * [7. INFORME DE PATRONES DE DISEÑO Y ARQUITECTURA](7.-informe-de-patrones-de-diseno-y-arquitectura.md)
 * [8. Diagrama de arquitectura](8.-diagrama-de-arquitectura.md)
 * [9. Matriz de pruebas unitarias](9.-matriz-de-pruebas-unitarias.md)
+* [10. FerroGest manual (2)](10.-ferrogest-manual-2.md)
+* [11. Informe de pruebas y evidencias](11.-informe-de-pruebas-y-evidencias.md)
